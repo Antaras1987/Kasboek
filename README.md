@@ -1,5 +1,5 @@
 # Kasboek
-Kasboek APP for Windows en android voor gebruik met Nederlandse banken.
+Kasboek APP voor Windows en android voor gebruik met Nederlandse banken.
 Ondersteund CSV import en herkent automatisch inkomsten, uitgaves en vaste lasten.
 Basislasten worden apart van bijv. boodschappen, horeca uitgaves gezet.
 betaalrekening saldo automatisch herkent, spaarrekening handmatig invullen.
